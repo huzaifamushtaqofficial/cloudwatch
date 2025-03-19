@@ -5,7 +5,7 @@
 
 Check out the demo of this project:  
 
-[![Cloudwatch](https://raw.githubusercontent.com/huzaifamushtaqofficial/cloudwatch/main/public/cloudwatch.jpg)]
+[![Cloudwatch](https://raw.githubusercontent.com/huzaifamushtaqofficial/cloudwatch/main/public/cloudwatch.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)
 
 [![Next JS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)

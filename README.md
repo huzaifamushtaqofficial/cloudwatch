@@ -5,7 +5,7 @@
 
 Check out the demo of this project:  
 
-[![Cloudwatch](https://raw.githubusercontent.com/huzaifamushtaqofficial/cloudwatch/main/public/cloudwatch.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)
+[![Cloudwatch](https://raw.githubusercontent.com/huzaifamushtaqofficial/cloudwatch/main/public/cloudwatch.jpg)](https://youtu.be/_SAxwdKuZHE)
 
 [![Next JS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -16,9 +16,7 @@ CloudWatch is a robust cloud storage management system built using Next.js and A
 </div>
 
 ## 🚀 Get Started  
-1. **Log in** with your Google account.  
-2. **Create a team** and start collaborating.  
-3. **Start a new file** – choose a document or a canvas.  
+1. **Log in** with your Google account.   
 4. **Unleash your creativity** with powerful visualization tools.
 🔗 **Try CloudWatch now:** 👉 [![CloudWatch](https://img.shields.io/badge/Try%20CloudWatch-6A0DAD?style=flat&logo=visualstudiocode&logoColor=white)](https://cloudwatch.huzaifamushtaq.website/)
 
